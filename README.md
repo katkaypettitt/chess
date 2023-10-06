@@ -39,7 +39,3 @@ Python 3.7.9 and Pygame 2.0.1
 ## Inspiration
 
 This project utilised the amazing Pygame tutorials offered by Eddie Sharick, from which substantial customisations and improvements were made. 
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
